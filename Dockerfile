@@ -1,6 +1,4 @@
-
-# 2. Fix Docker...
-
+# 2. Fix und Feature dockerfile!!!
 # Fix einfügen
 
 ARG DOCKER_BASE
